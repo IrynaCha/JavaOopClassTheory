@@ -4,7 +4,6 @@ package secondPdf.inheritanceExamples.superAndSub;
  * Created by Kurnosova Iryna on 15.11.2017.
  */
 public class SuperAndSubMain {
-    // Главный метод:
     public static void main(String[] args) {
 // Создание объекта суперкласса:
         Alpha objA = new Alpha();
